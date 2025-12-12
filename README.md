@@ -2214,4 +2214,735 @@
     }
     </script>
 </body>
+        // أكمل الكود من حيث انتهى...
+        {
+            id: 30,
+            title: "التفكير السريع والبطيء",
+            author: "دانيال كانيمان",
+            category: "كتب تطوير الذات",
+            cover: "https://images.unsplash.com/photo-1518709268805-4e9042af2176?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&h=500&q=80",
+            downloads: 176,
+            views: 590,
+            likes: 432,
+            liked: false,
+            authorBio: "دانيال كانيمان، عالم نفس إسرائيلي أمريكي، حائز على جائزة نوبل في الاقتصاد.",
+            description: "كتاب يشرح أنظمة التفكير في العقل البشري وكيف يتخذ الناس القرارات.",
+            content: "هناك نظامان للتفكير..."
+        },
+        
+        // كتب تعليمية (6 كتب)
+        {
+            id: 31,
+            title: "تعلم البرمجة",
+            author: "عبدالله عيد",
+            category: "كتب تعليمية",
+            cover: "https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&h=500&q=80",
+            downloads: 189,
+            views: 630,
+            likes: 456,
+            liked: true,
+            authorBio: "عبدالله عيد، مبرمج ومطور ويب، متخصص في تدريس البرمجة للمبتدئين.",
+            description: "كتاب شامل لتعلم أساسيات البرمجة من الصفر حتى الاحتراف.",
+            content: "البرمجة هي..."
+        },
+        {
+            id: 32,
+            title: "الإنجليزية للجميع",
+            author: "محمد أحمد",
+            category: "كتب تعليمية",
+            cover: "https://images.unsplash.com/photo-1541963463532-d68292c34b19?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&h=500&q=80",
+            downloads: 167,
+            views: 550,
+            likes: 398,
+            liked: false,
+            authorBio: "محمد أحمد، مدرس لغة إنجليزية، خبرة 15 سنة في تدريس اللغة.",
+            description: "كتاب متكامل لتعلم اللغة الإنجليزية من المستوى المبتدئ إلى المتقدم.",
+            content: "تعلم الإنجليزية..."
+        },
+        {
+            id: 33,
+            title: "الرياضيات الممتعة",
+            author: "د. علي حسن",
+            category: "كتب تعليمية",
+            cover: "https://images.unsplash.com/photo-1509228468518-180dd4864904?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&h=500&q=80",
+            downloads: 154,
+            views: 520,
+            likes: 365,
+            liked: true,
+            authorBio: "د. علي حسن، أستاذ رياضيات، متخصص في تبسيط الرياضيات للطلاب.",
+            description: "كتاب يجعل تعلم الرياضيات تجربة ممتعة وشيقة.",
+            content: "الرياضيات ليست صعبة..."
+        },
+        {
+            id: 34,
+            title: "كيف تذاكر بذكاء",
+            author: "سارة محمد",
+            category: "كتب تعليمية",
+            cover: "https://images.unsplash.com/photo-1456513080510-3447d7f4f2a2?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&h=500&q=80",
+            downloads: 143,
+            views: 480,
+            likes: 325,
+            liked: false,
+            authorBio: "سارة محمد، مستشارة تعليمية، متخصصة في مهارات التعلم والذاكرة.",
+            description: "كتاب يقدم استراتيجيات فعالة للمذاكرة والتحصيل الدراسي.",
+            content: "المذاكرة الذكية..."
+        },
+        {
+            id: 35,
+            title: "علم النفس التربوي",
+            author: "د. خالد عمر",
+            category: "كتب تعليمية",
+            cover: "https://images.unsplash.com/photo-1516979187457-637abb4f9353?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&h=500&q=80",
+            downloads: 132,
+            views: 450,
+            likes: 298,
+            liked: true,
+            authorBio: "د. خالد عمر، أستاذ علم نفس تربوي، خبرة في مجال التعليم والتعلم.",
+            description: "كتاب يشرح تطبيقات علم النفس في العملية التعليمية.",
+            content: "علم النفس التربوي..."
+        },
+        {
+            id: 36,
+            title: "الكتابة الإبداعية",
+            author: "أحمد السيد",
+            category: "كتب تعليمية",
+            cover: "https://images.unsplash.com/photo-1516979187457-637abb4f9353?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&h=500&q=80",
+            downloads: 156,
+            views: 510,
+            likes: 356,
+            liked: false,
+            authorBio: "أحمد السيد، كاتب وروائي، يدرب على مهارات الكتابة الإبداعية.",
+            description: "دليل عملي لتنمية مهارات الكتابة الإبداعية بأنواعها المختلفة.",
+            content: "الكتابة الإبداعية..."
+        }
+    ];
+
+    // بعد إضافة جميع الكتب، أكمل باقي الكود البرمجي...
+    // ... (أضف هنا باقي الدوال البرمجية)
+    
+    // دالة لتحميل الكتب على الصفحة
+    function loadBooks() {
+        const content = document.getElementById('content');
+        content.innerHTML = '';
+        
+        categories.forEach(category => {
+            const section = document.createElement('div');
+            section.className = 'section';
+            
+            const sectionTitle = document.createElement('h2');
+            sectionTitle.className = 'section-title';
+            sectionTitle.innerHTML = `<i class="fas fa-book"></i> ${category}`;
+            
+            const booksSliderContainer = document.createElement('div');
+            booksSliderContainer.className = 'books-slider-container';
+            
+            const booksSlider = document.createElement('div');
+            booksSlider.className = 'books-slider';
+            booksSlider.id = `slider-${category}`;
+            
+            // فلترة الكتب حسب التصنيف
+            const categoryBooks = booksData.filter(book => book.category === category);
+            
+            // إضافة الكتب
+            categoryBooks.forEach(book => {
+                const bookCard = document.createElement('div');
+                bookCard.className = 'book-card';
+                bookCard.onclick = () => showBookDetails(book.id);
+                
+                bookCard.innerHTML = `
+                    <div class="book-cover-container">
+                        <img src="${book.cover}" alt="${book.title}" class="book-cover">
+                        <div class="book-rating">
+                            <i class="fas fa-star"></i>
+                            ${(book.likes / 10).toFixed(1)}
+                        </div>
+                        <div class="book-category">${book.category}</div>
+                    </div>
+                    <div class="book-info">
+                        <div class="book-title">${book.title}</div>
+                        <div class="book-author">${book.author}</div>
+                        <div class="book-stats">
+                            <div class="book-stat">
+                                <i class="fas fa-download"></i>
+                                ${book.downloads}
+                            </div>
+                            <div class="book-stat">
+                                <i class="fas fa-eye"></i>
+                                ${book.views}
+                            </div>
+                            <div class="book-stat">
+                                <i class="fas fa-heart" style="color: ${book.liked ? 'var(--accent)' : '#aaa'}"></i>
+                                ${book.likes}
+                            </div>
+                        </div>
+                    </div>
+                `;
+                
+                booksSlider.appendChild(bookCard);
+            });
+            
+            booksSliderContainer.appendChild(booksSlider);
+            section.appendChild(sectionTitle);
+            section.appendChild(booksSliderContainer);
+            content.appendChild(section);
+        });
+    }
+    
+    // تهيئة الصفحة عند التحميل
+    document.addEventListener('DOMContentLoaded', function() {
+        loadBooks();
+        updateFavoritesCount();
+        
+        // إضافة وسم META للعربية
+        const meta = document.createElement('meta');
+        meta.name = "description";
+        meta.content = "المكتبة الرقمية العربية - أكبر مكتبة عربية تحتوي على آلاف الكتب المجانية";
+        document.head.appendChild(meta);
+    });
+
+    // باقي الدوال...
+    function toggleSidebar() {
+        document.getElementById('sidebar').classList.toggle('active');
+    }
+    
+    function toggleSearch() {
+        document.getElementById('searchOverlay').classList.toggle('active');
+        if (document.getElementById('searchOverlay').classList.contains('active')) {
+            document.getElementById('searchInput').focus();
+        }
+    }
+    
+    function toggleMode() {
+        document.body.classList.toggle('light');
+        const themeBtn = document.getElementById('themeBtn');
+        if (document.body.classList.contains('light')) {
+            themeBtn.innerHTML = '<i class="fas fa-moon"></i>';
+            themeBtn.title = 'الوضع الليلي';
+        } else {
+            themeBtn.innerHTML = '<i class="fas fa-sun"></i>';
+            themeBtn.title = 'الوضع النهاري';
+        }
+    }
+    
+    function showSection(section) {
+        console.log('عرض قسم: ' + section);
+        // تحديث الأزرار النشطة
+        document.querySelectorAll('.nav-btn').forEach(btn => {
+            btn.classList.remove('active');
+        });
+        event.target.classList.add('active');
+    }
+    
+    function shareSite() {
+        if (navigator.share) {
+            navigator.share({
+                title: 'المكتبة الرقمية العربية',
+                text: 'اكتشف آلاف الكتب العربية المجانية',
+                url: window.location.href
+            });
+        } else {
+            alert('المشاركة غير مدعومة في هذا المتصفح. يمكنك نسخ الرابط: ' + window.location.href);
+        }
+    }
+    
+    function showBookDetails(bookId) {
+        const book = booksData.find(b => b.id === bookId);
+        if (!book) return;
+        
+        const detailsOverlay = document.getElementById('bookDetailsOverlay');
+        const detailsContainer = document.querySelector('.book-details-container');
+        
+        detailsContainer.innerHTML = `
+            <div class="book-details-header">
+                <img src="${book.cover}" alt="${book.title}" class="book-details-cover">
+                <div class="book-header-text">
+                    <h1 class="book-details-title">${book.title}</h1>
+                    <div class="book-details-author">${book.author}</div>
+                    <div class="book-stats-large">
+                        <div class="stat-item-large" onclick="handleDownload(${book.id})">
+                            <div class="stat-value-large">${book.downloads}</div>
+                            <div class="stat-label-large">تحميل</div>
+                        </div>
+                        <div class="stat-item-large">
+                            <div class="stat-value-large">${book.views}</div>
+                            <div class="stat-label-large">مشاهدة</div>
+                        </div>
+                        <div class="stat-item-large" onclick="toggleLike(${book.id})">
+                            <div class="stat-value-large">${book.likes}</div>
+                            <div class="stat-label-large">إعجاب</div>
+                        </div>
+                        <div class="stat-item-large">
+                            <div class="stat-value-large">${(book.likes / 10).toFixed(1)}</div>
+                            <div class="stat-label-large">تقييم</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="book-actions">
+                <button class="action-btn read-btn" onclick="readBook(${book.id})">
+                    <i class="fas fa-book-open"></i>
+                    اقرأ الآن
+                </button>
+                <button class="action-btn download-btn" onclick="handleDownload(${book.id})">
+                    <i class="fas fa-download"></i>
+                    تحميل الكتاب
+                </button>
+            </div>
+            <div class="book-content">
+                <div class="content-section">
+                    <h3>عن المؤلف</h3>
+                    <p>${book.authorBio}</p>
+                </div>
+                <div class="content-section">
+                    <h3>وصف الكتاب</h3>
+                    <p>${book.description}</p>
+                </div>
+                <div class="content-section">
+                    <h3>مقتطف من الكتاب</h3>
+                    <p>${book.content}</p>
+                </div>
+            </div>
+        `;
+        
+        detailsOverlay.classList.add('active');
+    }
+    
+    function closeBookDetails() {
+        document.getElementById('bookDetailsOverlay').classList.remove('active');
+    }
+    
+    function readBook(bookId) {
+        const book = booksData.find(b => b.id === bookId);
+        if (!book) return;
+        
+        document.getElementById('readingTitle').textContent = book.title;
+        document.getElementById('readingContent').textContent = book.content + "\n\n" + book.description;
+        document.getElementById('readingOverlay').classList.add('active');
+    }
+    
+    function closeReading() {
+        document.getElementById('readingOverlay').classList.remove('active');
+    }
+    
+    function handleDownload(bookId) {
+        const book = booksData.find(b => b.id === bookId);
+        if (!book) return;
+        
+        book.downloads++;
+        alert(`جاري تحميل "${book.title}" ...\nسيبدأ التحميل خلال لحظات.`);
+        updateBookDisplay(bookId);
+    }
+    
+    function toggleLike(bookId) {
+        const book = booksData.find(b => b.id === bookId);
+        if (!book) return;
+        
+        book.liked = !book.liked;
+        book.likes += book.liked ? 1 : -1;
+        updateBookDisplay(bookId);
+        updateFavoritesCount();
+    }
+    
+    function updateBookDisplay(bookId) {
+        // يمكن تحديث العرض إذا كان الكتاب معروضاً حالياً
+    }
+    
+    function updateFavoritesCount() {
+        const favoritesCount = booksData.filter(book => book.liked).length;
+        document.getElementById('favoritesBadge').textContent = favoritesCount;
+    }
+    
+    function changeFontSize(change) {
+        const readingContent = document.getElementById('readingContent');
+        const currentSize = parseInt(window.getComputedStyle(readingContent).fontSize);
+        const newSize = currentSize + change;
+        
+        if (newSize >= 14 && newSize <= 30) {
+            readingContent.style.fontSize = newSize + 'px';
+        }
+    }
+    
+    function toggleBookmark() {
+        alert('تم إضافة إشارة للصفحة الحالية');
+    }
+    
+    function toggleNightMode() {
+        const readingOverlay = document.getElementById('readingOverlay');
+        readingOverlay.classList.toggle('light');
+    }
+    
+    function logout() {
+        if (confirm('هل تريد تسجيل الخروج؟')) {
+            alert('تم تسجيل الخروج بنجاح');
+            // هنا يمكن إضافة إعادة التوجيه لصفحة تسجيل الدخول
+        }
+    }
+    </script>
+</body>
+        // أكمل الكود من حيث انتهى...
+        {
+            id: 30,
+            title: "التفكير السريع والبطيء",
+            author: "دانيال كانيمان",
+            category: "كتب تطوير الذات",
+            cover: "https://images.unsplash.com/photo-1518709268805-4e9042af2176?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&h=500&q=80",
+            downloads: 176,
+            views: 590,
+            likes: 432,
+            liked: false,
+            authorBio: "دانيال كانيمان، عالم نفس إسرائيلي أمريكي، حائز على جائزة نوبل في الاقتصاد.",
+            description: "كتاب يشرح أنظمة التفكير في العقل البشري وكيف يتخذ الناس القرارات.",
+            content: "هناك نظامان للتفكير..."
+        },
+        
+        // كتب تعليمية (6 كتب)
+        {
+            id: 31,
+            title: "تعلم البرمجة",
+            author: "عبدالله عيد",
+            category: "كتب تعليمية",
+            cover: "https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&h=500&q=80",
+            downloads: 189,
+            views: 630,
+            likes: 456,
+            liked: true,
+            authorBio: "عبدالله عيد، مبرمج ومطور ويب، متخصص في تدريس البرمجة للمبتدئين.",
+            description: "كتاب شامل لتعلم أساسيات البرمجة من الصفر حتى الاحتراف.",
+            content: "البرمجة هي..."
+        },
+        {
+            id: 32,
+            title: "الإنجليزية للجميع",
+            author: "محمد أحمد",
+            category: "كتب تعليمية",
+            cover: "https://images.unsplash.com/photo-1541963463532-d68292c34b19?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&h=500&q=80",
+            downloads: 167,
+            views: 550,
+            likes: 398,
+            liked: false,
+            authorBio: "محمد أحمد، مدرس لغة إنجليزية، خبرة 15 سنة في تدريس اللغة.",
+            description: "كتاب متكامل لتعلم اللغة الإنجليزية من المستوى المبتدئ إلى المتقدم.",
+            content: "تعلم الإنجليزية..."
+        },
+        {
+            id: 33,
+            title: "الرياضيات الممتعة",
+            author: "د. علي حسن",
+            category: "كتب تعليمية",
+            cover: "https://images.unsplash.com/photo-1509228468518-180dd4864904?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&h=500&q=80",
+            downloads: 154,
+            views: 520,
+            likes: 365,
+            liked: true,
+            authorBio: "د. علي حسن، أستاذ رياضيات، متخصص في تبسيط الرياضيات للطلاب.",
+            description: "كتاب يجعل تعلم الرياضيات تجربة ممتعة وشيقة.",
+            content: "الرياضيات ليست صعبة..."
+        },
+        {
+            id: 34,
+            title: "كيف تذاكر بذكاء",
+            author: "سارة محمد",
+            category: "كتب تعليمية",
+            cover: "https://images.unsplash.com/photo-1456513080510-3447d7f4f2a2?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&h=500&q=80",
+            downloads: 143,
+            views: 480,
+            likes: 325,
+            liked: false,
+            authorBio: "سارة محمد، مستشارة تعليمية، متخصصة في مهارات التعلم والذاكرة.",
+            description: "كتاب يقدم استراتيجيات فعالة للمذاكرة والتحصيل الدراسي.",
+            content: "المذاكرة الذكية..."
+        },
+        {
+            id: 35,
+            title: "علم النفس التربوي",
+            author: "د. خالد عمر",
+            category: "كتب تعليمية",
+            cover: "https://images.unsplash.com/photo-1516979187457-637abb4f9353?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&h=500&q=80",
+            downloads: 132,
+            views: 450,
+            likes: 298,
+            liked: true,
+            authorBio: "د. خالد عمر، أستاذ علم نفس تربوي، خبرة في مجال التعليم والتعلم.",
+            description: "كتاب يشرح تطبيقات علم النفس في العملية التعليمية.",
+            content: "علم النفس التربوي..."
+        },
+        {
+            id: 36,
+            title: "الكتابة الإبداعية",
+            author: "أحمد السيد",
+            category: "كتب تعليمية",
+            cover: "https://images.unsplash.com/photo-1516979187457-637abb4f9353?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&h=500&q=80",
+            downloads: 156,
+            views: 510,
+            likes: 356,
+            liked: false,
+            authorBio: "أحمد السيد، كاتب وروائي، يدرب على مهارات الكتابة الإبداعية.",
+            description: "دليل عملي لتنمية مهارات الكتابة الإبداعية بأنواعها المختلفة.",
+            content: "الكتابة الإبداعية..."
+        }
+    ];
+
+    // بعد إضافة جميع الكتب، أكمل باقي الكود البرمجي...
+    // ... (أضف هنا باقي الدوال البرمجية)
+    
+    // دالة لتحميل الكتب على الصفحة
+    function loadBooks() {
+        const content = document.getElementById('content');
+        content.innerHTML = '';
+        
+        categories.forEach(category => {
+            const section = document.createElement('div');
+            section.className = 'section';
+            
+            const sectionTitle = document.createElement('h2');
+            sectionTitle.className = 'section-title';
+            sectionTitle.innerHTML = `<i class="fas fa-book"></i> ${category}`;
+            
+            const booksSliderContainer = document.createElement('div');
+            booksSliderContainer.className = 'books-slider-container';
+            
+            const booksSlider = document.createElement('div');
+            booksSlider.className = 'books-slider';
+            booksSlider.id = `slider-${category}`;
+            
+            // فلترة الكتب حسب التصنيف
+            const categoryBooks = booksData.filter(book => book.category === category);
+            
+            // إضافة الكتب
+            categoryBooks.forEach(book => {
+                const bookCard = document.createElement('div');
+                bookCard.className = 'book-card';
+                bookCard.onclick = () => showBookDetails(book.id);
+                
+                bookCard.innerHTML = `
+                    <div class="book-cover-container">
+                        <img src="${book.cover}" alt="${book.title}" class="book-cover">
+                        <div class="book-rating">
+                            <i class="fas fa-star"></i>
+                            ${(book.likes / 10).toFixed(1)}
+                        </div>
+                        <div class="book-category">${book.category}</div>
+                    </div>
+                    <div class="book-info">
+                        <div class="book-title">${book.title}</div>
+                        <div class="book-author">${book.author}</div>
+                        <div class="book-stats">
+                            <div class="book-stat">
+                                <i class="fas fa-download"></i>
+                                ${book.downloads}
+                            </div>
+                            <div class="book-stat">
+                                <i class="fas fa-eye"></i>
+                                ${book.views}
+                            </div>
+                            <div class="book-stat">
+                                <i class="fas fa-heart" style="color: ${book.liked ? 'var(--accent)' : '#aaa'}"></i>
+                                ${book.likes}
+                            </div>
+                        </div>
+                    </div>
+                `;
+                
+                booksSlider.appendChild(bookCard);
+            });
+            
+            booksSliderContainer.appendChild(booksSlider);
+            section.appendChild(sectionTitle);
+            section.appendChild(booksSliderContainer);
+            content.appendChild(section);
+        });
+    }
+    
+    // تهيئة الصفحة عند التحميل
+    document.addEventListener('DOMContentLoaded', function() {
+        loadBooks();
+        updateFavoritesCount();
+        
+        // إضافة وسم META للعربية
+        const meta = document.createElement('meta');
+        meta.name = "description";
+        meta.content = "المكتبة الرقمية العربية - أكبر مكتبة عربية تحتوي على آلاف الكتب المجانية";
+        document.head.appendChild(meta);
+    });
+
+    // باقي الدوال...
+    function toggleSidebar() {
+        document.getElementById('sidebar').classList.toggle('active');
+    }
+    
+    function toggleSearch() {
+        document.getElementById('searchOverlay').classList.toggle('active');
+        if (document.getElementById('searchOverlay').classList.contains('active')) {
+            document.getElementById('searchInput').focus();
+        }
+    }
+    
+    function toggleMode() {
+        document.body.classList.toggle('light');
+        const themeBtn = document.getElementById('themeBtn');
+        if (document.body.classList.contains('light')) {
+            themeBtn.innerHTML = '<i class="fas fa-moon"></i>';
+            themeBtn.title = 'الوضع الليلي';
+        } else {
+            themeBtn.innerHTML = '<i class="fas fa-sun"></i>';
+            themeBtn.title = 'الوضع النهاري';
+        }
+    }
+    
+    function showSection(section) {
+        console.log('عرض قسم: ' + section);
+        // تحديث الأزرار النشطة
+        document.querySelectorAll('.nav-btn').forEach(btn => {
+            btn.classList.remove('active');
+        });
+        event.target.classList.add('active');
+    }
+    
+    function shareSite() {
+        if (navigator.share) {
+            navigator.share({
+                title: 'المكتبة الرقمية العربية',
+                text: 'اكتشف آلاف الكتب العربية المجانية',
+                url: window.location.href
+            });
+        } else {
+            alert('المشاركة غير مدعومة في هذا المتصفح. يمكنك نسخ الرابط: ' + window.location.href);
+        }
+    }
+    
+    function showBookDetails(bookId) {
+        const book = booksData.find(b => b.id === bookId);
+        if (!book) return;
+        
+        const detailsOverlay = document.getElementById('bookDetailsOverlay');
+        const detailsContainer = document.querySelector('.book-details-container');
+        
+        detailsContainer.innerHTML = `
+            <div class="book-details-header">
+                <img src="${book.cover}" alt="${book.title}" class="book-details-cover">
+                <div class="book-header-text">
+                    <h1 class="book-details-title">${book.title}</h1>
+                    <div class="book-details-author">${book.author}</div>
+                    <div class="book-stats-large">
+                        <div class="stat-item-large" onclick="handleDownload(${book.id})">
+                            <div class="stat-value-large">${book.downloads}</div>
+                            <div class="stat-label-large">تحميل</div>
+                        </div>
+                        <div class="stat-item-large">
+                            <div class="stat-value-large">${book.views}</div>
+                            <div class="stat-label-large">مشاهدة</div>
+                        </div>
+                        <div class="stat-item-large" onclick="toggleLike(${book.id})">
+                            <div class="stat-value-large">${book.likes}</div>
+                            <div class="stat-label-large">إعجاب</div>
+                        </div>
+                        <div class="stat-item-large">
+                            <div class="stat-value-large">${(book.likes / 10).toFixed(1)}</div>
+                            <div class="stat-label-large">تقييم</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="book-actions">
+                <button class="action-btn read-btn" onclick="readBook(${book.id})">
+                    <i class="fas fa-book-open"></i>
+                    اقرأ الآن
+                </button>
+                <button class="action-btn download-btn" onclick="handleDownload(${book.id})">
+                    <i class="fas fa-download"></i>
+                    تحميل الكتاب
+                </button>
+            </div>
+            <div class="book-content">
+                <div class="content-section">
+                    <h3>عن المؤلف</h3>
+                    <p>${book.authorBio}</p>
+                </div>
+                <div class="content-section">
+                    <h3>وصف الكتاب</h3>
+                    <p>${book.description}</p>
+                </div>
+                <div class="content-section">
+                    <h3>مقتطف من الكتاب</h3>
+                    <p>${book.content}</p>
+                </div>
+            </div>
+        `;
+        
+        detailsOverlay.classList.add('active');
+    }
+    
+    function closeBookDetails() {
+        document.getElementById('bookDetailsOverlay').classList.remove('active');
+    }
+    
+    function readBook(bookId) {
+        const book = booksData.find(b => b.id === bookId);
+        if (!book) return;
+        
+        document.getElementById('readingTitle').textContent = book.title;
+        document.getElementById('readingContent').textContent = book.content + "\n\n" + book.description;
+        document.getElementById('readingOverlay').classList.add('active');
+    }
+    
+    function closeReading() {
+        document.getElementById('readingOverlay').classList.remove('active');
+    }
+    
+    function handleDownload(bookId) {
+        const book = booksData.find(b => b.id === bookId);
+        if (!book) return;
+        
+        book.downloads++;
+        alert(`جاري تحميل "${book.title}" ...\nسيبدأ التحميل خلال لحظات.`);
+        updateBookDisplay(bookId);
+    }
+    
+    function toggleLike(bookId) {
+        const book = booksData.find(b => b.id === bookId);
+        if (!book) return;
+        
+        book.liked = !book.liked;
+        book.likes += book.liked ? 1 : -1;
+        updateBookDisplay(bookId);
+        updateFavoritesCount();
+    }
+    
+    function updateBookDisplay(bookId) {
+        // يمكن تحديث العرض إذا كان الكتاب معروضاً حالياً
+    }
+    
+    function updateFavoritesCount() {
+        const favoritesCount = booksData.filter(book => book.liked).length;
+        document.getElementById('favoritesBadge').textContent = favoritesCount;
+    }
+    
+    function changeFontSize(change) {
+        const readingContent = document.getElementById('readingContent');
+        const currentSize = parseInt(window.getComputedStyle(readingContent).fontSize);
+        const newSize = currentSize + change;
+        
+        if (newSize >= 14 && newSize <= 30) {
+            readingContent.style.fontSize = newSize + 'px';
+        }
+    }
+    
+    function toggleBookmark() {
+        alert('تم إضافة إشارة للصفحة الحالية');
+    }
+    
+    function toggleNightMode() {
+        const readingOverlay = document.getElementById('readingOverlay');
+        readingOverlay.classList.toggle('light');
+    }
+    
+    function logout() {
+        if (confirm('هل تريد تسجيل الخروج؟')) {
+            alert('تم تسجيل الخروج بنجاح');
+            // هنا يمكن إضافة إعادة التوجيه لصفحة تسجيل الدخول
+        }
+    }
+    </script>
+</body>
 </html>
+
